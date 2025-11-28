@@ -1,10 +1,5 @@
 # WasteNot: AI Ingredient Detection & Recipe Recommendation System
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-EfficientNet-orange)
-![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
-![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-red)
-![Grafana](https://img.shields.io/badge/Dashboard-Grafana-yellow)
 
 ---
 
@@ -72,14 +67,14 @@ Project documentation and reports:
 |------|-------------|
 | `README.md` | This documentation file |
 | `AI System project proposal template` | Initial project proposal document (PDF) |
-| `Project report` | Comprehensive project report with findings |
+
 
 ### `videos/`
 Demonstration and tutorial videos:
 
 | File | Description |
 |------|-------------|
-| `system_demo.mp4` | Complete system demonstration screencast |
+| `Screenshots` | Complete system demonstration screencast |
 
 ---
 
@@ -157,21 +152,8 @@ docker-compose down
 
 A comprehensive video demonstration of the WasteNot system is available at:
 
-📽️ **Location:** `videos/system_demo.mp4`
+📽️ **Location:** `https://drive.google.com/drive/folders/1rSF-ZI--0Yc4X4e5qklCgq0XkmDAoYMN?usp=drive_link/video.mp4`
 
-### Demo Contents
-
-The demonstration video showcases the following features and capabilities:
-
-| Timestamp | Feature Demonstrated |
-|-----------|---------------------|
-| 0:00 - 1:00 | System overview and architecture |
-| 1:00 - 3:00 | Ingredient image upload and detection |
-| 3:00 - 5:00 | Recipe recommendation engine in action |
-| 5:00 - 7:00 | Prediction pipeline walkthrough |
-| 7:00 - 9:00 | Prometheus metrics endpoint demonstration |
-| 9:00 - 11:00 | Grafana dashboard visualization |
-| 11:00 - 12:00 | User feedback collection system |
 
 ### Key Highlights in Demo
 - **Real-time Predictions:** Watch ingredients being identified in real-time
